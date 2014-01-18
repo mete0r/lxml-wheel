@@ -1,0 +1,8 @@
+.*.sw?
+.installed.cfg
+bin
+include
+lib
+local
+parts
+wheelhouse
