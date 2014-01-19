@@ -2,7 +2,7 @@
 .installed.cfg
 bin
 include
-lib
+lib/python*
 local
 parts
 wheelhouse
